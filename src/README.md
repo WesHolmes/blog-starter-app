@@ -1,1 +1,0 @@
-This is a blog posting website application. You can sign in and out of accounts and post blogs on command. To post a blog press the "new article" button. You can also navigate to excisting blogs. 
